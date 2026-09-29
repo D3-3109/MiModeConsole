@@ -1,0 +1,12 @@
+MiFanTool/bin/
+MiFanTool/obj/
+*.pdb
+extracted/
+window_shot.png
+extracted/
+*.msi
+*.exe
+window_shot.png
+
+*.ps1
+*.txt
